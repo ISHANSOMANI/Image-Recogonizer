@@ -1,0 +1,3 @@
+c103 model link:
+
+https://teachablemachine.withgoogle.com/models/DE-wCbmEE/

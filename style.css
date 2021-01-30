@@ -1,0 +1,26 @@
+body{
+ background-color: lime;
+ color: blue;
+ font-family: fantasy;
+}
+.Heading{
+    width: 80%;
+    font-size: large;
+    font-weight: 400;
+}
+
+.name_of_objects,#object_name,#object_accuracy{
+    color:red;
+}
+
+#camera,#result{
+    width: 400px;
+    height: 400px;
+    border-radius: 50;
+    border: 2px red dotted;
+}
+
+#Button{
+    width: fit-content;
+    height: fit-content;
+}
